@@ -1,0 +1,8 @@
+Logs
+
+
+id
+user_id - >FK with user table
+logtype
+wallet_id->FK with wallet table  which is nulable
+timestamps
